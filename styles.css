@@ -1,3 +1,15 @@
-h1 {
-    color: red;
+body {
+    background-color: rgb(244, 234, 221);
+}
+h1,
+h2 {
+    color: darkred;
+}
+p,
+li {
+    width: 600px;
+}
+img {
+    height: auto;
+    width: 600px;
 }
